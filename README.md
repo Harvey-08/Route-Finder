@@ -21,12 +21,12 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/route-finder.git
+   git clone https://github.com/your-username/Route-Finder.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd route-finder
+   cd Route-Finder
    ```
 
 3. **Install Dependencies**:
